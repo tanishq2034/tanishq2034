@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swapnil Kshitiz</h1>
 <h3 align="center">A passionate learner</h3>
-<img align="right" src="(https://user-images.githubusercontent.com/71135473/235281466-0fb4b8c9-898c-436f-9c13-a4fbcb74e0c1.gif" width="400" > ![image_processing20201228-25092-12ut6hc](https://user-images.githubusercontent.com/71135473/235281466-0fb4b8c9-898c-436f-9c13-a4fbcb74e0c1.gif)
-
+![car](https://user-images.githubusercontent.com/71135473/235281674-fd9f03ee-4f72-4aa0-a8ed-2c68fc9c2ec1.gif)
+ <img src="[C:\Users\Kshitiz\Desktop\kshitu](https://cdn.dribbble.com/users/4292047/screenshots/14834706/media/8d4ae05d441104af696aedca2d5c939d.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishq2034&label=Profile%20views&color=0e75b6&style=flat" alt="tanishq2034" /> 
 </p>
 
