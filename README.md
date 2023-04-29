@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishq2034&label=Profile%20views&color=0e75b6&style=flat" alt="tanishq2034" /> </p>
 
 - 🔭 I’m currently working on **Unreal Engine**
-![image_processing20201228-25092-12ut6hc](https://user-images.githubusercontent.com/71135473/235280829-457e90ec-7b87-4104-920e-8efe8a4113b0.gif)
+<!--<img src="[image_processing20201228-25092-12ut6hc](https://user-images.githubusercontent.com/71135473/235280829-457e90ec-7b87-4104-920e-8efe8a4113b0.gif)">-->
 
 - 📫 How to reach me **tanishq2034@gmail.com**
 
