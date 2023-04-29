@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Swapnil Kshitiz</h1>
 <h3 align="center">A passionate learner</h3>
-![image_processing20201228-25092-12ut6hc](https://user-images.githubusercontent.com/71135473/235281120-39208d20-e724-4837-9491-eea8fb72b2ec.gif)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishq2034&label=Profile%20views&color=0e75b6&style=flat" alt="tanishq2034" /> </p>
+<img align="right" src="(https://user-images.githubusercontent.com/71135473/235281466-0fb4b8c9-898c-436f-9c13-a4fbcb74e0c1.gif" width="400" > ![image_processing20201228-25092-12ut6hc](https://user-images.githubusercontent.com/71135473/235281466-0fb4b8c9-898c-436f-9c13-a4fbcb74e0c1.gif)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishq2034&label=Profile%20views&color=0e75b6&style=flat" alt="tanishq2034" /> 
+</p>
 
 - 🔭 I’m currently working on **Unreal Engine**
 - 📫 How to reach me **tanishq2034@gmail.com**
