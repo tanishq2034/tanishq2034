@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Swapnil Kshitiz</h1>
 <h3 align="center">A passionate learner</h3>
-
-![IMG_20220728_191814](https://user-images.githubusercontent.com/71135473/235280755-c02856dc-010c-4374-9891-179075c48625.jpg)
+![wallpapersden com_among-us_2048x1152](https://user-images.githubusercontent.com/71135473/235280944-53596310-5505-4fa6-b991-e1e41c26231b.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishq2034&label=Profile%20views&color=0e75b6&style=flat" alt="tanishq2034" /> </p>
 
 - 🔭 I’m currently working on **Unreal Engine**
+![image_processing20201228-25092-12ut6hc](https://user-images.githubusercontent.com/71135473/235280829-457e90ec-7b87-4104-920e-8efe8a4113b0.gif)
 
 - 📫 How to reach me **tanishq2034@gmail.com**
 
