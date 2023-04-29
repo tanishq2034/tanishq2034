@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Swapnil Kshitiz</h1>
 <h3 align="center">A passionate learner</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4292047/screenshots/14834706/media/8d4ae05d441104af696aedca2d5c939d.gif">
+![car](https://user-images.githubusercontent.com/71135473/235282350-85cc8ebc-5086-4686-9826-538d344cc2da.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishq2034&label=Profile%20views&color=0e75b6&style=flat" alt="tanishq2034" /> 
-</p>
+</p>![car](https://user-images.githubusercontent.com/71135473/235282360-60b0d617-78e3-4bcf-8f89-6a31447ca2d9.gif)
+
 
 - 🔭 I’m currently working on **Unreal Engine**
 - 📫 How to reach me **tanishq2034@gmail.com**
