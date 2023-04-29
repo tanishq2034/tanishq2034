@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Swapnil Kshitiz</h1>
+<img  width="1200" src="https://img.freepik.com/premium-photo/cyberpunk-night-city-landscape-planet-night-sky-stars-ultraviolet-neon-light_710696-238.jpg">
+<h1 align="center">Hi 👋, I'm Swapnil Kshitiz
+</h1>
+
 <h3 align="center">A passionate learner</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishq2034&label=Profile%20views&color=0e75b6&style=flat" alt="tanishq2034" /> 
 </p>
-![car](https://user-images.githubusercontent.com/71135473/235282508-f7a46b3c-fe17-4d62-81b0-03e065a0155e.gif)
+<img align="right" width="400" src="https://user-images.githubusercontent.com/71135473/235282508-f7a46b3c-fe17-4d62-81b0-03e065a0155e.gif">
 
 
 - 🔭 I’m currently working on **Unreal Engine**
